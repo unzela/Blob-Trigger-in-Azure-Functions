@@ -1,0 +1,1 @@
+# Blob-Trigger-in-Azure-Functions
