@@ -1,1 +1,1 @@
-# Blob-Trigger-in-Azure-Functions
+# Blob-Trigger-in-Azure-Functions (Image Resizer)
